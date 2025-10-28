@@ -12,6 +12,10 @@ https://wokwi.com/projects/445711273960123393
 | 17          | GPIO 14     | Pin for Buzzer                | Output for Buzzer                              |
 | 3v3         | Power       | 3.3V Output Power             | OLED VCC                                       |
 | 36          | GPIO 22     | I2C SCL                       | OLED SCL                                       |
+| 39          | GPIO 23     | I2C SDA                       | OLED SDA                                       |
+| 24          | GPIO 4      | Pin for Yellow LED            | Output for Yellow LED                          |
+| 23          | GPIO 0      | Pin for Green LED             | Output for Green LED                           |
+| 22          | GPIO 2      | Pin for Red LED               | Output for Red LED                             |
 
 # Images
 ## All LEDs OFF
