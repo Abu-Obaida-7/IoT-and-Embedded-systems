@@ -6,7 +6,7 @@
 
 // --- Pin configuration ---
 #define DHTPIN 14        // DHT22 data pin
-#define DHTTYPE DHT22   // Change to DHT11 if needed
+#define DHTTYPE DHT11   // Change to DHT11 if needed
 
 #define SDA_PIN 21       // I2C SDA
 #define SCL_PIN 22       // I2C SCL
